@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "Picture": "https://i.ibb.co/GxNDWsN/Health.jpg",
+        "Title": "Clean water for children",
+        "Category": "Health",
+        "Category_bg": "#0052ff33",
+        "Card_bg": "#0052ff26",
+        "Text_button_bg": "#0052FF",
+        "description": "Your generous support for clean water initiatives is a lifeline for children in underserved communities. Your donations fund the construction of sustainable water sources, ensuring that children have access to safe, disease-free water. This not only improves their health but also allows them to focus on their education and dreams instead of the daily struggle for survival. With your help, we can reduce waterborne diseases, promote sanitation, and empower communities to thrive. Together, we can quench the thirst for knowledge and opportunity that clean water brings, providing brighter futures for children around the world.",
+        "Price": "299.99"
+    },
+    {
+        "id": 2,
+        "Picture": "https://i.ibb.co/WGw785q/Education.jpg",
+        "Title": "Good education",
+        "Category": "Education",
+        "Category_bg": "#ff444a33",
+        "Card_bg": "#ff444a26",
+        "Text_button_bg": "#FF444A",
+        "description": "Contribute to quality education programs that empower underserved communities. Your donations help create schools, provide resources, and support teachers, ensuring children have access to a world of opportunities and a path out of poverty. Education is the key to breaking the cycle of hardship and unlocking the potential of every child. Your generosity fuels dreams, fosters critical thinking, and ignites the spark of innovation. Together, we can make education accessible to all, nurturing the leaders, innovators, and change-makers of tomorrow.",
+        "Price": "49.99"
+    },
+    {
+        "id": 3,
+        "Picture": "https://i.ibb.co/Qk0s21p/Clothing.jpg",
+        "Title": "Used Clothing Drive",
+        "Category": "Clothing",
+        "Category_bg": "#79c23f33",
+        "Card_bg": "#79c23f26",
+        "Text_button_bg": "#79C23F",
+        "description": "Donate gently used clothing to those in need. Your contributions provide warmth, dignity, and comfort to individuals facing adversity, while also reducing waste and promoting sustainable practices within your community. Every piece of clothing you give helps someone stay warm, feel valued, and maintain their dignity. Your support not only extends a helping hand but also promotes a healthier planet by reducing textile waste. Join our Used Clothing Drive and make a difference in the lives of those less fortunate while supporting a more sustainable and caring world.",
+        "Price": "79.99"
+    },
+    {
+        "id": 4,
+        "Picture": "https://i.ibb.co/qFDQntD/Food.jpg",
+        "Title": "Better Food for Everyone",
+        "Category": "Food",
+        "Category_bg": "#f8714733",
+        "Card_bg": "#f8714726",
+        "Text_button_bg": "#F87147",
+        "description": "Join us in the fight against hunger. Your donations support food programs that provide nutritious meals to individuals and families facing food insecurity, offering hope, nourishment, and a path toward healthier, more secure lives. Hunger is a solvable problem, and your contribution fuels our mission to ensure that no one goes to bed hungry. Together, we can create communities where everyone has access to the nourishment they need to thrive, learn, and grow. Your support is the cornerstone of a world where no one has to worry about their next meal, where we all share in the promise of better food and brighter futures.",
+        "Price": "149.99"
+    },
+    {
+        "id": 5,
+        "Picture": "https://i.ibb.co/qFDQntD/Food.jpg",
+        "Title": "Better Food for Everyone",
+        "Category": "Food",
+        "Category_bg": "#f8714733",
+        "Card_bg": "#f8714726",
+        "Text_button_bg": "#F87147",
+        "description": "Join us in the fight against hunger. Your donations support food programs that provide nutritious meals to individuals and families facing food insecurity, offering hope, nourishment, and a path toward healthier, more secure lives. Hunger is a solvable problem, and your contribution fuels our mission to ensure that no one goes to bed hungry. Together, we can create communities where everyone has access to the nourishment they need to thrive, learn, and grow. Your support is the cornerstone of a world where no one has to worry about their next meal, where we all share in the promise of better food and brighter futures.",
+        "Price": "19.99"
+    },
+    {
+        "id": 6,
+        "Picture": "https://i.ibb.co/Qk0s21p/Clothing.jpg",
+        "Title": "Used Clothing Drive",
+        "Category": "Clothing",
+        "Category_bg": "#79c23f33",
+        "Card_bg": "#79c23f26",
+        "Text_button_bg": "#79C23F",
+        "description": "Donate gently used clothing to those in need. Your contributions provide warmth, dignity, and comfort to individuals facing adversity, while also reducing waste and promoting sustainable practices within your community. Every piece of clothing you give helps someone stay warm, feel valued, and maintain their dignity. Your support not only extends a helping hand but also promotes a healthier planet by reducing textile waste. Join our Used Clothing Drive and make a difference in the lives of those less fortunate while supporting a more sustainable and caring world.",
+        "Price": "29.99"
+    },
+    {
+        "id": 7,
+        "Picture": "https://i.ibb.co/WGw785q/Education.jpg",
+        "Title": "Good education",
+        "Category": "Education",
+        "Category_bg": "#ff444a33",
+        "Card_bg": "#ff444a26",
+        "Text_button_bg": "#FF444A",
+        "description": "Contribute to quality education programs that empower underserved communities. Your donations help create schools, provide resources, and support teachers, ensuring children have access to a world of opportunities and a path out of poverty. Education is the key to breaking the cycle of hardship and unlocking the potential of every child. Your generosity fuels dreams, fosters critical thinking, and ignites the spark of innovation. Together, we can make education accessible to all, nurturing the leaders, innovators, and change-makers of tomorrow.",
+        "Price": "39.99"
+    },
+    {
+        "id": 8,
+        "Picture": "https://i.ibb.co/GxNDWsN/Health.jpg",
+        "Title": "Clean water for children",
+        "Category": "Health",
+        "Category_bg": "#0052ff33",
+        "Card_bg": "#0052ff26",
+        "Text_button_bg": "#0052FF",
+        "description": "Your generous support for clean water initiatives is a lifeline for children in underserved communities. Your donations fund the construction of sustainable water sources, ensuring that children have access to safe, disease-free water. This not only improves their health but also allows them to focus on their education and dreams instead of the daily struggle for survival. With your help, we can reduce waterborne diseases, promote sanitation, and empower communities to thrive. Together, we can quench the thirst for knowledge and opportunity that clean water brings, providing brighter futures for children around the world.",
+        "Price": "9.99"
+    },
+    {
+        "id": 9,
+        "Picture": "https://i.ibb.co/GxNDWsN/Health.jpg",
+        "Title": "Clean water for children",
+        "Category": "Health",
+        "Category_bg": "#0052ff33",
+        "Card_bg": "#0052ff26",
+        "Text_button_bg": "#0052FF",
+        "description": "Your generous support for clean water initiatives is a lifeline for children in underserved communities. Your donations fund the construction of sustainable water sources, ensuring that children have access to safe, disease-free water. This not only improves their health but also allows them to focus on their education and dreams instead of the daily struggle for survival. With your help, we can reduce waterborne diseases, promote sanitation, and empower communities to thrive. Together, we can quench the thirst for knowledge and opportunity that clean water brings, providing brighter futures for children around the world.",
+        "Price": "69.99"
+    },
+    {
+        "id": 10,
+        "Picture": "https://i.ibb.co/WGw785q/Education.jpg",
+        "Title": "Good education",
+        "Category": "Education",
+        "Category_bg": "#ff444a33",
+        "Card_bg": "#ff444a26",
+        "Text_button_bg": "#FF444A",
+        "description": "Contribute to quality education programs that empower underserved communities. Your donations help create schools, provide resources, and support teachers, ensuring children have access to a world of opportunities and a path out of poverty. Education is the key to breaking the cycle of hardship and unlocking the potential of every child. Your generosity fuels dreams, fosters critical thinking, and ignites the spark of innovation. Together, we can make education accessible to all, nurturing the leaders, innovators, and change-makers of tomorrow.",
+        "Price": "199.99"
+    },
+    {
+        "id": 11,
+        "Picture": "https://i.ibb.co/Qk0s21p/Clothing.jpg",
+        "Title": "Used Clothing Drive",
+        "Category": "Clothing",
+        "Category_bg": "#79c23f33",
+        "Card_bg": "#79c23f26",
+        "Text_button_bg": "#79C23F",
+        "description": "Donate gently used clothing to those in need. Your contributions provide warmth, dignity, and comfort to individuals facing adversity, while also reducing waste and promoting sustainable practices within your community. Every piece of clothing you give helps someone stay warm, feel valued, and maintain their dignity. Your support not only extends a helping hand but also promotes a healthier planet by reducing textile waste. Join our Used Clothing Drive and make a difference in the lives of those less fortunate while supporting a more sustainable and caring world.",
+        "Price": "499.99"
+    },
+    {
+        "id": 12,
+        "Picture": "https://i.ibb.co/qFDQntD/Food.jpg",
+        "Title": "Better Food for Everyone",
+        "Category": "Food",
+        "Category_bg": "#f8714733",
+        "Card_bg": "#f8714726",
+        "Text_button_bg": "#F87147",
+        "description": "Join us in the fight against hunger. Your donations support food programs that provide nutritious meals to individuals and families facing food insecurity, offering hope, nourishment, and a path toward healthier, more secure lives. Hunger is a solvable problem, and your contribution fuels our mission to ensure that no one goes to bed hungry. Together, we can create communities where everyone has access to the nourishment they need to thrive, learn, and grow. Your support is the cornerstone of a world where no one has to worry about their next meal, where we all share in the promise of better food and brighter futures.",
+        "Price": "399.99"
+    }
+]

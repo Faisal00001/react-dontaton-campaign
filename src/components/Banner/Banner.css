@@ -1,0 +1,5 @@
+.banner {
+    background: url('https://i.ibb.co/ykCbbbx/Rectangle-4281.png'),
+        linear-gradient(rgba(255, 255, 255, 0.95), rgba(255, 255, 255, 0.95));
+    background-blend-mode: soft-light;
+}
